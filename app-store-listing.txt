@@ -1,0 +1,54 @@
+=== App Store 中文版 ===
+
+名称: Giftic 好礼 — 礼物提醒助手
+副标题: 重要日子提醒 + 智能礼物推荐
+
+描述:
+再也不会忘记重要的日子。
+
+Giftic 好礼是一款集纪念日管理与礼物推荐于一体的贴心助手。无论是生日、纪念日、节日还是其他特殊日子，Giftic 帮你记得清清楚楚，提前提醒，让你每次送礼都恰到好处。
+
+• 日子管理：支持公历和农历日期，重复/单次活动灵活设置。联系人一键关联，倒计时一目了然。
+• 智能推荐：根据对象身份（伴侣/父母/朋友/同事）、场合类型、预算范围，从 50+ 精选礼物库中自动匹配最佳选项。
+• 送礼记录：每次送礼自动存档，再也不会送重复或搞混谁喜欢什么。
+• 准时提醒：提前 3 天、1 天、当天多级提醒，留足准备时间。
+• 完全离线：所有数据存储在设备本地，不需要注册账号，不上传任何云端。
+• 极简设计：奶白暖色界面，卡片式布局，清爽易用。
+
+适合人群：
+- 经常忘记生日/纪念日的人
+- 不知道送什么的送礼困难户
+- 想记录亲友喜好的细心人
+- 需要一个私密、离线、不打扰的提醒工具的人
+
+Giftic 好礼，让每一次心意恰到好处。
+
+关键词: 礼物,送礼,提醒,纪念日,生日提醒,礼物推荐,节日,记录,备忘,重要日子
+
+
+=== App Store English ===
+
+Name: Giftic — Gift Reminder & Recommendations
+Subtitle: Never miss an important date again
+
+Description:
+Never forget an important date again.
+
+Giftic is a thoughtful assistant that combines date reminders with intelligent gift recommendations. Whether it's a birthday, anniversary, holiday, or any special occasion, Giftic keeps track so you're always prepared with the perfect gift.
+
+• Date Management: Supports both Gregorian and Lunar calendar dates. Flexible repeat settings, contact linking, and countdown at a glance.
+• Smart Recommendations: Matches the best gift from a curated collection of 50+ options based on recipient (partner / parent / friend / colleague), occasion type, and budget range.
+• Gift History: Every gift you give is automatically recorded. Never repeat a gift or forget who likes what.
+• Timely Reminders: Multi-level notifications (3 days, 1 day, day of) give you plenty of time to prepare.
+• Fully Offline: All data is stored locally on your device. No account registration required. Nothing is uploaded to the cloud.
+• Clean Design: Cream-toned warm interface with card-based layout — easy on the eyes and intuitive to use.
+
+Perfect for:
+- Anyone who forgets birthdays and anniversaries
+- People who struggle to pick the right gift
+- Those who want to remember friends' and family's preferences
+- Users who prefer a private, offline, no-fuss reminder tool
+
+Giftic — thoughtful gifting, every time.
+
+Keywords: gift,reminder,birthday,anniversary,gift recommendations,holiday,important dates,offline,private,gift tracker
